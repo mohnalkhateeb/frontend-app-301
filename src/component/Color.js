@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import { Card,Button } from 'react-bootstrap'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Card, Button } from 'react-bootstrap'
 export class Color extends Component {
     render() {
         return (
